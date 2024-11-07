@@ -2,6 +2,7 @@ package com.thoughtbot.expandablerecyclerview.sample.expand;
 
 import android.view.View;
 import android.widget.TextView;
+
 import com.thoughtbot.expandablerecyclerview.sample.R;
 import com.thoughtbot.expandablerecyclerview.viewholders.ChildViewHolder;
 
